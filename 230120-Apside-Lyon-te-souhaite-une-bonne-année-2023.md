@@ -1,5 +1,4 @@
-![image vœux apside](https://tinyurl.com/3ndtevt3)
-![test](https://github.com/grpetit/texts-md/blob/main/assets/1671797140426.gif?raw=true)
+![image vœux apside](https://github.com/grpetit/texts-md/blob/main/assets/1671797140426.gif?raw=true)
 
 # Apside Lyon te souhaite une bonne année 2023 !
 
